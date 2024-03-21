@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yousef Fawzi
 - 👀 I’m enrolled in college studying Intelligent systems engineering!
-- 🌱 I’m currently learning ...
+- 🌱 I’m still studying
 - ⭐ I’m interested in Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on python projects, ML, advanced analytics using various tools
 - 📫 reach me via linkedin! https://www.linkedin.com/in/yousef-fawzi-a8357b282/
