@@ -35,7 +35,7 @@
        I'm an AI engineer passionate about building intelligent systems using machine learning, deep learning, and computer vision. My work focuses on transforming data into decisions, building scalable AI models, and applying logic from chess to problem-solving. I have hands-on experience with frameworks like TensorFlow, PyTorch, Hugging Face Transformers, and OpenCV.
     </td>
     <td width="35%" align="right">
-      <img src="https://i.imgflip.com/65efzo.gif"  height="150" alt="Coder GIF"/>
+      <img src="https://camo.githubusercontent.com/3c2a37ec9351da33136694e45215e5091ae0e0a14d52da27af08547a034e0295/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966"  height="150" alt="Coder GIF"/>
     </td>
   </tr>
 </table>
