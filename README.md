@@ -1,99 +1,146 @@
-<div align="center">
-  <img src="https://github.com/Losif01/Losif01/blob/main/assets/banner.png"  width="800" alt="Banner Image" />
-  
-  <h1>🧠 Yousef Fawzi</h1>
-  <p><strong>AI Engineer | Chess Master (CM) | Cairo, Egypt</strong></p>
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"  width="29px"> Hello World! I'm Yousef Fawzi
 
-  <!-- Replace this with your profile image -->
-  <img src="https://github.com/Losif01/Losif01/blob/main/assets/profile.png"  width="200" alt="Profile Picture" />
-  
-  <br/>
-  <a href="#about">About</a> • 
-  <a href="#skills">Skills</a> • 
-  <a href="#achievements">Achievements</a> • 
-  <a href="#projects">Projects</a> • 
-  <a href="#contact">Contact</a>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8be9fd&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Chess+Master;Computer+Vision+Specialist;LLMs+Enthusiast" alt="Typing SVG" />
 </div>
 
----
+<p align="center">
+  <a href="mailto:youseffawzi@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/youseffawzi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Losif01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-## 🔍 About Me
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/Losif01?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/Losif01?label=Stars" alt="stars">
+  <!-- Replace with your featured repo if needed -->
+  <a href="https://github.com/Losif01/chess-engine">
+    <img src="https://img.shields.io/github/forks/Losif01/chess-engine?label=Forks" alt="Forks Badge"/>
+  </a>
+  <a href="https://github.com/Losif01/chess-engine">
+    <img src="https://img.shields.io/github/issues-pr/Losif01/chess-engine?style=flat-square" alt="Pull Requests Badge"/>
+  </a>
+  <a href="https://github.com/Losif01/chess-engine">
+    <img src="https://img.shields.io/github/contributors/Losif01/chess-engine?style=flat-square" alt="Contributors Badge"/>
+  </a>
+  <a href="https://github.com/Losif01/chess-engine">
+    <img src="https://img.shields.io/github/last-commit/Losif01/chess-engine?style=flat-square" alt="Last Commit Badge"/>
+  </a>
+</p>
 
-I'm an AI engineer passionate about building intelligent systems using machine learning, deep learning, and computer vision. My work focuses on:
+## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;About Me   
 
-- **Transforming data into decisions**
-- **Building scalable AI models**
-- **Applying logic and strategy from chess to problem-solving**
+<table>
+  <tr>
+    <td width="65%" valign="top">
+       I'm an AI engineer passionate about building intelligent systems using machine learning, deep learning, and computer vision. My work focuses on transforming data into decisions, building scalable AI models, and applying logic from chess to problem-solving. I have hands-on experience with frameworks like TensorFlow, PyTorch, Hugging Face, and OpenCV.
+    </td>
+    <td width="35%" align="right">
+      <img src="https://i.imgflip.com/65efzo.gif"  height="150" alt="Coder GIF"/>
+    </td>
+  </tr>
+</table>
 
-When I’m not coding, I'm analyzing chess positions or enjoying a good puzzle game.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Losif01&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Losif01&theme=dracula" alt="GitHub Streak" />
+</div>
 
----
+## 🚀 Skills & Technologies   
 
-## 🛠 Skills & Tools
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Machine Learning</h3>
+      <div align="center">  
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/HuggingFace-B532FF?style=for-the-badge&logo=huggingface&logoColor=white" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Data Science</h3>
+      <div align="center">  
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Seaborn-71ADBC?style=for-the-badge&logo=seaborn&logoColor=white" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Computer Vision</h3>
+      <div align="center">  
+        <img src="https://img.shields.io/badge/OpenCV-273AC7?style=for-the-badge&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Plotly-FACE35?style=for-the-badge&logo=plotly&logoColor=black" />
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+        <img src="https://img.shields.io/badge/PIL-DD4F4F?style=for-the-badge&logo=python&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-| Machine Learning        | Deep Learning         | Computer Vision      |
-|------------------------|-----------------------|----------------------|
-| Scikit-learn           | TensorFlow            | OpenCV               |
-| Pandas                 | PyTorch               | PIL                  |
-| NumPy                  | Keras                 | Image Processing     |
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
-| Data Visualization     | NLP & LLMs             | Platforms             |
-|------------------------|------------------------|-----------------------|
-| Seaborn                | Hugging Face           | Kaggle                |
-| Plotly                 | Transformers           | Jupyter Notebooks     |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Losif01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
----
+## 🏆 Achievements 
 
-## 🏆 Achievements
-
-### 🎯 Chess Engine with Reinforcement Learning
-Built a chess engine capable of self-improvement through reinforcement learning techniques.
+### 🎯 Reinforcement Learning Chess Engine
+Built a chess engine that learns and improves through reinforcement learning techniques.
 
 ### 🏠 Smart Home Monitoring System
 Created a real-time computer vision system for monitoring house cameras using object detection and tracking.
 
----
+## 📈 Featured Projects  
 
-## 📂 Projects
+<div align="center">
 
-<!-- Fill these in when ready -->
+  <!-- 🧠 Chess Engine -->
+  <a href="https://github.com/Losif01/chess-engine">   
+    <img src="https://img.shields.io/badge/Chess_Engine-273AC7?style=for-the-badge&logo=python&logoColor=white" alt="Chess Engine" />
+  </a>
 
-- **Project Title**  
-  Description goes here. [View Project](#)
+  <!-- 🖼 Smart Home CV -->
+  <a href="https://github.com/Losif01/smart-home-cv">
+    <img src="https://img.shields.io/badge/Smart_Home_CV-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" alt="Smart Home CV" />
+  </a>
 
-- **Project Title**  
-  Description goes here. [View Project](#)
+</div>
 
-- **Project Title**  
-  Description goes here. [View Project](#)
+## 🧠 Currently Learning 
 
----
+- Exploring large language models (LLMs) and their applications
+- Building end-to-end MLOps pipelines for production deployment
+- Improving my chess analysis with AI-based tools
+- Advanced model optimization and interpretability techniques
 
-## 📊 GitHub Activity
+## 📫 Let's Connect!
+<div align="center">
+  <a href="mailto:youseffawzi@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/youseffawzi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-📊 Here's what my GitHub looks like:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Losif01&show_icons=true&theme=dark)
-
-#### Top Languages: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Losif01&layout=compact&theme=dark)
-
----
-
-## 📈 Recent Contributions 
-
-📈 My recent activity timeline:
-
-[![Anurag's GitHub Activity Time Lapse](https://ghchart.rshah.org/Losif01)](https://github.com/Losif01) 
-
----
-
-## 📬 Contact Me
-
-- 📧 [Email me](mailto:youseffawzi@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/youseffawzi) 
-- ♟️ [Chess.com Profile](https://chess.com/player/profile/your-username) 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Losif01&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
 ---
 
-*Crafted with precision and logic – just like a chess game.*
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Losif01&theme=dracula&column=7&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+<br clear="both">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HendRamadan1/HendRamadan1/output/snake.svg" alt="Snake animation" />
+</p>
