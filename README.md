@@ -28,6 +28,8 @@ I specialize in **MLOps pipelines**, **Infrastructure as Code (IaC)**, and **Edg
 | **Secure Infrastructure** | Architecting self-healing, monitored, and automated private clouds that guarantee absolute data sovereignty.          | Terraform · Ansible · Tailscale |
 |  **Data Engineering**     | Architecting high-performance database schemas and APIs capable of handling intensive data ingestion.                 | PostgreSQL · Redis · Python     |
 
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Losif01/Losif01/output/github-contribution-grid-snake-dark.svg">
@@ -36,13 +38,17 @@ I specialize in **MLOps pipelines**, **Infrastructure as Code (IaC)**, and **Edg
   </picture>
 </div>
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Losif01&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Losif01&theme=dracula" alt="GitHub Streak" />
 </div>
 
-## 🚀 Skills & Technologies
+---
+
+## Skills & Technologies
 
 | ML & Data | DevOps | Computer Vision | Agentic AI & LLMs | IoT | Languages | Databases |
 | --- | --- | --- | --- | --- | --- | --- |
