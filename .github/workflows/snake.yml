@@ -9,7 +9,7 @@ on:
     - master
     - main
 
-# Grant the action permission to push to the repo
+# Grant the action permission to push the generated files to the repo
 permissions:
   contents: write
 
@@ -19,13 +19,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate github-snake.svg and ocean.gif
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
