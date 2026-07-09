@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"  width="29px"> Hello World! I'm Yousef Fawzi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8be9fd&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Chess+Master;Computer+Vision+Specialist;LLMs+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8be9fd&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Chess+Master;DevOps+Engineer;System+Design" alt="Typing SVG" />
 </div>
 
 <p align="center">
