@@ -40,14 +40,6 @@ I specialize in **MLOps pipelines**, **Infrastructure as Code (IaC)**, and **Edg
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Losif01&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Losif01&theme=dracula" alt="GitHub Streak" />
-</div>
-
----
-
 ## Skills & Technologies
 
 | ML & Data | DevOps | Computer Vision | Agentic AI & LLMs | IoT | Languages | Databases |
