@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"  width="29px"> Hello World! I'm Yousef Fawzi
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello World! I'm Yousef Fawzi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8be9fd&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Chess+Master;DevOps+Engineer;System+Design" alt="Typing SVG" />
@@ -19,20 +19,15 @@
   <a href="https://github.com/Losif01/Romani-chess">
     <img src="https://img.shields.io/github/issues-pr/Losif01/Romani-chess?style=flat-square" alt="Pull Requests Badge"/>
   </a>
-  <a href="https://github.com/Losif01/Romani-chess">
-    <img src="https://img.shields.io/github/contributors/Losif01/Romani-chess?style=flat-square" alt="Contributors Badge"/>
-  </a>
-  <a href="https://github.com/Losif01/Romani-chess">
-    <img src="https://img.shields.io/github/last-commit/Losif01/Romani-chess?style=flat-square" alt="Last Commit Badge"/>
-  </a>
 </p>
 
-## <img alt="GIF" src="https://camo.githubusercontent.com/3c2a37ec9351da33136694e45215e5091ae0e0a14d52da27af08547a034e0295/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966" width="25" /> &nbsp;About Me   
+## <img alt="GIF" src="https://camo.githubusercontent.com/3c2a37ec9351da33136694e45215e5091ae0e0a14d52da27af08547a034e0295/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966" width="25" /> &nbsp;
+Know Me Better   
 
 <table>
   <tr>
     <td width="65%" valign="top">
-       I'm an AI engineer passionate about building intelligent systems using machine learning, deep learning, and computer vision. My work focuses on transforming data into decisions, building scalable AI models, and applying logic from chess to problem-solving. I have hands-on experience with frameworks like TensorFlow, PyTorch, Hugging Face Transformers, and OpenCV.
+       I am an engineer focused on the intersection of AI, backend development, and infrastructure. I specialize in building robust MLOps pipelines, deploying self-hosted cloud environments, and developing end-to-end systems that span from embedded hardware to containerized web services. When I'm not writing infrastructure as code, I'm likely analyzing chess games or customizing my Linux workstation.
     </td>
     <td width="35%" align="right">
       <img src="https://camo.githubusercontent.com/3c2a37ec9351da33136694e45215e5091ae0e0a14d52da27af08547a034e0295/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966"  height="150" alt="Coder GIF"/>
@@ -46,104 +41,41 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Losif01&theme=dracula" alt="GitHub Streak" />
 </div>
 
-## 🚀 Skills & Technologies   
+## 🚀 Skills & Technologies
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Machine Learning</h3>
-      <div align="center">  
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-B532FF?style=for-the-badge&logo=huggingface&logoColor=white" />
-        <img src="https://img.shields.io/badge/Transformers-0088cc?style=for-the-badge&logo=huggingface&logoColor=white" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Data Science</h3>
-      <div align="center">  
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Seaborn-71ADBC?style=for-the-badge&logo=seaborn&logoColor=white" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Computer Vision</h3>
-      <div align="center">  
-        <img src="https://img.shields.io/badge/OpenCV-273AC7?style=for-the-badge&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Plotly-FACE35?style=for-the-badge&logo=plotly&logoColor=black" />
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-        <img src="https://img.shields.io/badge/PIL-DD4F4F?style=for-the-badge&logo=python&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-</table>
+| ML & Data | DevOps | Computer Vision | Agentic AI & LLMs | IoT | Languages | Databases |
+| --- | --- | --- | --- | --- | --- | --- |
+| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <br> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <br> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /> <br> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /> <br> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" /> <br> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" /> <br> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Pillow_(PIL)-3776AB?style=flat&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Open3D-000000?style=flat&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/MediaPipe-00B2A9?style=flat&logo=google&logoColor=white" /> <br> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" /> <br> <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white" /> <br> <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" /> <br> <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black" /> <br> <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=flat&logo=huggingface&logoColor=white" /> <br> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /> <br> <img src="https://img.shields.io/badge/AutoGen-0052CC?style=flat&logo=microsoft&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" /> | <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" /> <br> <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> |
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Losif01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+## 📈 Featured Engineering
 
-## 🏆 Achievements 
+### Smart Palm Sensor and Model (Graduation Project)
+An IoT system designed to detect insect activity in trees through acoustic signal processing. 
+* Engineered the hardware layer using the piezoelectric effect and an ESP32.
+* Developed a high-performance **FastAPI** backend with a **PostgreSQL** database to ingest and process sensor telemetry.
 
-### 🎯 Reinforcement Learning Chess Engine
-Built a chess engine that learns and improves through reinforcement learning techniques.
+### Self-Hosted Secure Cloud
+I am tired of big corp taking my data that I paid to secure, so I self-hosted a Nextcloud server on an old PC I have, although the primary purpose of this project was to practice DevOps principles.
+* Automated configuration via Ansible as a simple local **IaC** means.
+* Deployed Prometheus and Grafana on the server for real-time system monitoring.
+* Tailscale zero-trust VPN network.
 
-### 📊 Data Science Projects
-Completed several end-to-end machine learning projects including housing price prediction and Titanic survival classification.
+### Chess Opening Analyzer
+A custom analytical tool built for technical chess preparation (I still use this for personal use).
+* Integrates **Stockfish** for deep engine evaluation.
+* Visualizes game data and opening statistics using a custom **Streamlit** dashboard.
 
-## 📈 Featured Projects  
+## 🧠 Current Focus
+- Mastering **FastAPI** for high-performance backend serving and MLOps synergy.
+- Expanding my self-hosted homelab infrastructure, including transitioning to private cloud solutions like Nextcloud.
+- Deepening my expertise in Kubernetes orchestration and automated CI/CD pipelines.
 
-<div align="center">
-
-  <!-- 🧠 Romani Chess -->
-  <a href="https://github.com/Losif01/Romani-chess">   
-    <img src="https://img.shields.io/badge/Romani_Chess-273AC7?style=for-the-badge&logo=python&logoColor=white" alt="Romani Chess" />
-  </a>
-
-  <!-- 🏠 Housing Price Prediction -->
-  <a href="https://github.com/Losif01/Housing-price-prediction">
-    <img src="https://img.shields.io/badge/Housing_Price_Prediction-FF6F00?style=for-the-badge&logo=sklearn&logoColor=white" alt="Housing Price Prediction" />
-  </a>
-
-  <!-- 🚢 Titanic Survival Prediction -->
-  <a href="https://github.com/Losif01/Titanic-project">
-    <img src="https://img.shields.io/badge/Titanic_Survival-0A9396?style=for-the-badge&logo=python&logoColor=black" alt="Titanic Survival Prediction" />
-  </a>
-
-</div>
-
-## 🧠 Currently Learning 
-
-- Exploring large language models (LLMs) and their applications
-- Building end-to-end MLOps pipelines for production deployment
-- Improving my chess analysis with AI-based tools
-- Advanced model optimization and interpretability techniques
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Losif01&theme=dracula&column=7&no-frame=true" alt="GitHub Trophies" />
-</div>
-
-## 📫 Let's Connect! 
-<div align="center">
-  <a href="mailto:losif.ai.2050@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yousef-fawzi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<br clear="both">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Losif01&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-
-<br clear="both">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Losif01/Losif01/output/snake.svg" alt="Snake animation" />
