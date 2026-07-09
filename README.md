@@ -146,5 +146,5 @@ Completed several end-to-end machine learning projects including housing price p
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HendRamadan1/HendRamadan1/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Losif01/Losif01/output/snake.svg" alt="Snake animation" />
 </p>
