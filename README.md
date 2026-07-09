@@ -28,17 +28,13 @@ I specialize in **MLOps pipelines**, **Infrastructure as Code (IaC)**, and **Edg
 | **Secure Infrastructure** | Architecting self-healing, monitored, and automated private clouds that guarantee absolute data sovereignty.          | Terraform · Ansible · Tailscale |
 |  **Data Engineering**     | Architecting high-performance database schemas and APIs capable of handling intensive data ingestion.                 | PostgreSQL · Redis · Python     |
 
----
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Losif01/Losif01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Losif01/Losif01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Losif01/Losif01/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Losif01&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
@@ -82,10 +78,6 @@ A technical data-visualization engine built to analyze extensive chess game data
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Losif01&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Losif01/Losif01/output/snake.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" alt="gifgithub" />
