@@ -21,19 +21,17 @@
   </a>
 </p>
 
-## <img alt="GIF" src="https://camo.githubusercontent.com/3c2a37ec9351da33136694e45215e5091ae0e0a14d52da27af08547a034e0295/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966" width="25" /> &nbsp;
-Know Me Better   
+## Know Me Better
+
 
 <table>
   <tr>
     <td width="65%" valign="top">
        I am an engineer focused on the intersection of AI, backend development, and infrastructure. I specialize in building robust MLOps pipelines, deploying self-hosted cloud environments, and developing end-to-end systems that span from embedded hardware to containerized web services. When I'm not writing infrastructure as code, I'm likely analyzing chess games or customizing my Linux workstation.
     </td>
-    <td width="35%" align="right">
-      <img src="https://camo.githubusercontent.com/3c2a37ec9351da33136694e45215e5091ae0e0a14d52da27af08547a034e0295/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966"  height="150" alt="Coder GIF"/>
-    </td>
   </tr>
 </table>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Losif01&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
@@ -41,42 +39,42 @@ Know Me Better
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Losif01&theme=dracula" alt="GitHub Streak" />
 </div>
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
 | ML & Data | DevOps | Computer Vision | Agentic AI & LLMs | IoT | Languages | Databases |
 | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <br> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <br> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /> <br> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /> <br> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" /> <br> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" /> <br> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Pillow_(PIL)-3776AB?style=flat&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Open3D-000000?style=flat&logo=cplusplus&logoColor=white" /> <br> <img src="https://img.shields.io/badge/MediaPipe-00B2A9?style=flat&logo=google&logoColor=white" /> <br> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" /> <br> <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white" /> <br> <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" /> <br> <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black" /> <br> <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=flat&logo=huggingface&logoColor=white" /> <br> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /> <br> <img src="https://img.shields.io/badge/AutoGen-0052CC?style=flat&logo=microsoft&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" /> | <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" /> <br> <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> |
 
 
-## 📈 Featured Engineering
+## Top Projects
 
 ### Smart Palm Sensor and Model (Graduation Project)
 An IoT system designed to detect insect activity in trees through acoustic signal processing. 
 * Engineered the hardware layer using the piezoelectric effect and an ESP32.
 * Developed a high-performance **FastAPI** backend with a **PostgreSQL** database to ingest and process sensor telemetry.
+* [Check out the link to project](https://github.com/Losif01/GRMY-red-palm-weevil-anhilator)
 
 ### Self-Hosted Secure Cloud
 I am tired of big corp taking my data that I paid to secure, so I self-hosted a Nextcloud server on an old PC I have, although the primary purpose of this project was to practice DevOps principles.
 * Automated configuration via Ansible as a simple local **IaC** means.
 * Deployed Prometheus and Grafana on the server for real-time system monitoring.
 * Tailscale zero-trust VPN network.
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7445907819528134656?collapsed=1" height="628" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 
 ### Chess Opening Analyzer
 A custom analytical tool built for technical chess preparation (I still use this for personal use).
 * Integrates **Stockfish** for deep engine evaluation.
 * Visualizes game data and opening statistics using a custom **Streamlit** dashboard.
+* [Check out the link](https://github.com/Losif01/chess-game-analyzer)
 
-## 🧠 Current Focus
+##  Current Focus
 - Mastering **FastAPI** for high-performance backend serving and MLOps synergy.
 - Expanding my self-hosted homelab infrastructure, including transitioning to private cloud solutions like Nextcloud.
 - Deepening my expertise in Kubernetes orchestration and automated CI/CD pipelines.
-
 <br clear="both">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Losif01&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Losif01/Losif01/output/snake.svg" alt="Snake animation" />
-</p>
